@@ -24,9 +24,9 @@
 
 ##Ingresa la región (por ejemplo, germany): germany
  `
-0 Hoger
-1 Fluzzeugabsturz in Kasachstan
-2 Squid Game
-3 Vierschanzentournee
-4 Oh Du fröhliche
+- 0 Hoger
+- 1 Fluzzeugabsturz in Kasachstan
+- 2 Squid Game
+- 3 Vierschanzentournee
+- 4 Oh Du fröhliche
  `
