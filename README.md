@@ -1,16 +1,17 @@
 # Proyecto: Obtención de Búsquedas Tendentes en Google Trends
 
 ## Descripción
-Este proyecto permite obtener las búsquedas más populares en Google Trends para una región específica. Utiliza la biblioteca `pytrends` para conectarse a Google Trends y recuperar las búsquedas tendentes en tiempo real. El código está diseñado para ser robusto, con manejo de errores y validación de entradas, lo que lo hace fácil de usar y mantener.
+- Este proyecto permite obtener las búsquedas más populares en Google Trends para una región específica. 
+- Utiliza la biblioteca `pytrends` para conectarse a Google Trends y recuperar las búsquedas tendentes en tiempo real. 
 
 ## Características
 - **Interactivo**: Solicita al usuario que ingrese una región para obtener las búsquedas tendentes.
 - **Manejo de errores**: Captura y maneja excepciones para evitar fallos inesperados.
 - **Validación de entradas**: Verifica que la región ingresada no esté vacía.
-- **Mensajes en español**: Proporciona mensajes claros y en español para una mejor experiencia del usuario.
+- **Idioma español**: Proporciona mensajes claros y en español para una mejor experiencia del usuario.
 
 ## Requisitos
-- Python 3.x
+- Python 3.12
 - Biblioteca `pytrends` (instalable via `pip install pytrends`)
 
 ## Uso
@@ -21,9 +22,11 @@ Este proyecto permite obtener las búsquedas más populares en Google Trends par
 ## Ejemplo de Salida
 
 
-Ingresa la región (por ejemplo, germany): germany
+##Ingresa la región (por ejemplo, germany): germany
+ `
 0 Hoger
 1 Fluzzeugabsturz in Kasachstan
 2 Squid Game
 3 Vierschanzentournee
 4 Oh Du fröhliche
+ `
